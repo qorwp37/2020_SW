@@ -10,10 +10,10 @@
 
 # 기타
 - [백준사이트 문제 풀이 공유](https://github.com/qorwp37/BeginnerLevel_Problem_fromBaekjoon.github.io)
-: 백준사이트에서 푼 문제들입니다. 먼저 풀어보고 비교하면서 참고할 수 있는 자료입니다.
+: 백준사이트에서 푼 문제들입니다. 먼저 풀어보고나서 풀이를 비교하며 다른 점, 개선할 점을 참고할 수 있는 자료입니다.
 
 - [Python 기초 역량을 키우는 방법](https://github.com/qorwp37/Intermediate-level_SamsungSWPython.github.io)
-: 파이썬을 공부하며 정리한 기초역량 키우는 방법을 공유한 자료입니다.
+: 파이썬을 공부하며 정리한, 기초역량 키우는 방법을 공유한 자료입니다.
 
 - [Python 문제 풀이시 자주 쓰이고 알아야할 문법들](https://github.com/qorwp37/Python-Tutorial-.github.io)
 : 파이썬 문제를 풀며 중요하다고 생각된 문법들을 정리한 것입니다.
