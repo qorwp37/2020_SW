@@ -1,6 +1,19 @@
-[AIR INDICATOR](https://github.com/qorwp37/AIR_INDICATOR)
-환경표시기 제품 또는 비슷한 제품을 만들때 레퍼런스가 될 수 있는, 신뢰성 있는 자료입니다.
 
-과제수행기간: 2020.8 - 2020/10
-기타 정보: 환경표시기 H/W를 구성하는 회로와, F/W를 이루는 코드입니다.
+# 자율과제형
+**[AIR INDICATOR](https://github.com/qorwp37/AIR_INDICATOR)
+**환경표시기 제품 또는 비슷한 제품을 만들때 레퍼런스가 될 수 있는, 신뢰성 있는 자료입니다.
+
+[백준사이트 문제 풀이 공유](https://github.com/qorwp37/BeginnerLevel_Problem_fromBaekjoon.github.io)
+백준사이트에서 푼 문제들입니다. 먼저 풀어보고 비교하면서 참고할 수 있는 자료입니다.
+
+[Python 기초 역량을 키우는 방법](https://github.com/qorwp37/Intermediate-level_SamsungSWPython.github.io)
+파이썬을 공부하며 정리한 기초역량 키우는 방법을 공유한 자료입니다.
+
+[Python 문제 풀이시 자주 쓰이고 알아야할 문법들](https://github.com/qorwp37/Python-Tutorial-.github.io)
+파이썬 문제를 풀며 중요하다고 생각된 문법들을 정리한 것입니다.
+
+
+
+[알고리즘 수업에서 배운 내용](https://github.com/qorwp37/C_Algorithm.github.io)
+알고리즘 수업에서 배운 내용을 C언어로 구현한 것입니다.
 
