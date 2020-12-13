@@ -1,2 +1,2 @@
 # 2020_SW
-[클릭](https://github.com/)
+[summery.md](https://github.com/qorwp37/2020_SW/blob/main/summery.md)
